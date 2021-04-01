@@ -3,6 +3,10 @@ uuid = "42bd8120-ca3c-4dd9-bd42-bcad74f5a053"
 authors = ["lethal8723 <kei.hanafusa@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
 [compat]
 julia = "1"
 
