@@ -1,6 +1,6 @@
 name = "SavGol"
 uuid = "42bd8120-ca3c-4dd9-bd42-bcad74f5a053"
-authors = ["lethal8723 <kei.hanafusa@gmail.com>"]
+authors = ["hanafsky <hanafsky@gmail.com>"]
 version = "0.1.0"
 
 [deps]
